@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/Super-VPN/Super-VPN.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[点击打开放大版页面，阅读体验更佳](https://super-vpn.github.io/)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
