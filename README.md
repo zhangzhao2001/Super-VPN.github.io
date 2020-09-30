@@ -1,39 +1,7 @@
 # VPN翻墙与科学上网指南（2020年持续更新）
 
-You can use the [editor on GitHub](https://github.com/Super-VPN/Super-VPN.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### [点击打开放大版页面，阅读体验更佳](https://super-vpn.github.io/)
 
-### Markdown
+市场上的翻墙软件多如牛毛，如果你有幸访问国外苹果/安卓应用商店，搜一下”VPN”，能找到几十上百款APP，其中大部分我都试过，没几个能用的。我原本想做一次地毯式测试，但后来失去了耐心，实在太多，就没有继续测了，我可以肯定99.9%都不好用，尤其是那些声称自己“免费”的，你也别浪费时间。我写这篇中国VPN推荐花了很长时间，是我亲自使用过十几款付费VPN后的总结。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Super-VPN/Super-VPN.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我想先提醒读者：没有完美的翻墙软件，不要这样期望。过去几年，我辗转国内外，用过的VPN不算少了，我还从来没碰到过哪个VPN在中国能做到100%稳定不断线的，也从来没碰到过哪个翻墙工具能在不保持持续更新的前提下在中国持续使用的。GFW的屏蔽能力越来越强，它和翻墙软件之间的战斗，会一直持续下去。我们的科学上网事业会一如既往，八仙过海各显神通是常态。
