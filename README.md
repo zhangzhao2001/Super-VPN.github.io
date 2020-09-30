@@ -7,7 +7,7 @@
 |  VPN   | 特点  |
 |  ----  | ----  |
 | [PandaVPN](https://www.panhdpe.xyz/r/22216799) | 海外华人开发 |
-| [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=github&aff_click_id=supervpn) | 顶级VPN品牌之一 |
+| [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=github&aff_click_id=supervpn) | 顶级VPN品牌之一 |
 | [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=github&data2=supervpn) | 网速一流的VPN |
 | [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supervpn) | 顶级品牌（需翻墙后购买）|
 
@@ -120,7 +120,44 @@ ExpressVPN提供30天内无理由退款，如果你发现它在你的设备和�
 客服不支持中文，但你可以用下面简单的英文措辞：
 
 > Hi，
+>
 > I would like to have a refund, because your service does not work for me. My account is xxx@xxx（你自己的注册邮箱）.
+>
+> Thank you.
+
+# NordVPN
+
+NordVPN也是老牌的VPN，世界顶级的VPN厂商，之前有段时间在国内使用不稳定，不过经过一段时间的优化，NordVPN现在又非常好用了。
+
+![NordVPN](img/nord7.png)
+
+这个VPN有广泛的设备支持：Windows，Mac，Linux，Android，iOS … 没有ExpressVPN那么面面俱到，但能满足绝大多数用户的需要了。价格比ExpressVPN要便宜不少。
+
+![NordVPN支持设备](img/nord6.png)
+
+在中国使用NordVPN不再需要特别操作，只需要点击快速连接（Quick Connect）按钮，客户端会自动连上最快连接。
+
+NordVPN经常性的有促销活动，有些活动是官方说明“以后不会再有”，所以遇到活动就别犹豫了。
+
+NordVPN官方还有所谓的优惠券，实际上赠送时长，一般是1个月，但与套餐绑定，必须买2年套餐才有用：
+
+![NordVPN优惠码](img/nord2.png)
+
+#### 最近有效的优惠码是 NERDWRITER
+
+有需要优惠码的，可以在[Issues](https://github.com/Super-VPN/Super-VPN.github.io/issues)里留言，我尽力帮大家找！
+
+
+### [NordVPN官网镜像，可直接打开](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=github&aff_click_id=supervpn)
+
+![NordVPN官网二维码](img/nordcode.png)
+
+NordVPN支持30天无理由退款，如果你发现它在你的设备和网络环境下用不了，你可以写邮件 support@nordvpn.com 要求退款：
+
+> Hi，
+>
+> I would like to have a refund, because your service does not work for me. My account is xxx@xxx（你自己的注册邮箱）.
+>
 > Thank you.
 
 
