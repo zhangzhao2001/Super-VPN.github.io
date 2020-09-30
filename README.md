@@ -4,6 +4,8 @@
 
 ### 本文比较啰嗦， 如果不想看，你可以直接点击下方几个产品链接：
 
+|  VPN   | 特点  |
+|  ----  | ----  |
 | [PandaVPN](https://www.panhdpe.xyz/r/22216799) | 海外华人开发 |
 | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=github&aff_click_id=supervpn) | 顶级VPN品牌之一 |
 | [IvacyVPN](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=github&data2=supervpn) | 网速一流的VPN |
