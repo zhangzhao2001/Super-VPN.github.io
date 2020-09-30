@@ -161,3 +161,37 @@ NordVPN支持30天无理由退款，如果你发现它在你的设备和网络�
 > Thank you.
 
 
+# SurfShark
+
+> 市场上少有的不限设备数量的VPN
+
+不限设备数量： 这可能是SurfShark最大的优点，多数其它翻墙软件都只提供有限的同时连接数（设备），而SurfShark允许用户在任意多台设备上任意使用。
+
+广告拦截： SurfShark自带拦截程序，能有效屏蔽众多广告、跟踪脚本，恶意程序或钓鱼软件。并非所有翻墙软件都提供广告拦截，坦白说，我个人并不觉得对中国VPN来说是特别重要的功能。
+
+支持设备： SurfShark支持Windows，MacOS，Linux，iOS，Android，FireTV等设备，也提供Chrome、Firefox浏览器插件。
+
+智能连接： 允许分应用配置流量是否通过VPN线路，如你可以配置你的Torrent下载软件走SurfShark，而让你的Chrome浏览器直接走公网访问国内网站。
+
+![SurfShark连接](img/surfshark1.png)
+
+安全与隐私保护： SurfShark保证严格的务日志政策，提供连接时自动断网保护，能有效防止DNS泄露。
+
+价格与优惠： SurfShark提供三种套餐，买单月价格为11.95美金，买一年为5.99美金每月，总计约71美金，买27个月价格为1.77美金每月，总计约47美金。在西方重大节日里都有较大促销活动。
+
+解除网飞（Netflix）观看限制： 提供美国即其他15个国家的IP，能自由订阅观看当地的网飞节目。
+
+7/24客服： SurfShark提供7天24小时客服，你可以随时在线联系他们。
+
+SurfShark目前只能通过官网购买，要先翻墙，可以用PandaVPN的免费试用，先获取国外IP，再进行购买。
+
+[SurfShark官网地址，翻墙后打开](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401)
+
+![SurfShark官网二维码](img/surfcode.png)
+
+SurfShark提供30天退款保证，如果购买后你的设备或网络环境下无法使用，而已联系它们退款：
+
+1. 打开官网，等待页面装载完毕，在右下角找到“Chat”按钮，和它们的在线客服沟通，它们是7/24在线的
+2. 写邮件给 support@surfshark.com 告诉客服你的账号即可。
+
+
