@@ -1,6 +1,6 @@
-# VPN翻墙与科学上网指南（2020年持续更新）
+# VPN翻墙与科学上网指南（2020年持续更新，欢迎Star、Fork）
 
-### [点击打开放大版页面，阅读体验更佳](https://super-vpn.github.io/)
+### [点击此处打开全屏页面，阅读体验更佳](https://super-vpn.github.io/)
 
 ### 本文比较啰嗦， 如果不想看，可以直接点击下方几个推荐VPN（持续更新）：
 
@@ -111,4 +111,16 @@ ExpressVPN支持的付款方式很多，包括支付宝、银联。
 ### [ExpressVPN官网镜像，需翻墙后打开（本来支持直接打开，受某些因素影响，官方主动屏蔽了）](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supervpn)
 
 ![ExpressVPN官网二维码](img/expresscode.png)
+
+ExpressVPN提供30天内无理由退款，如果你发现它在你的设备和网络环境下用不了，你可以有两种方式联系它们退款。
+
+1. 打开镜像站，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
+2. 写邮件给 support@expressvpn.com，他们一般会在一个工作日内回复。
+
+客服不支持中文，但你可以用下面简单的英文措辞：
+
+> Hi，
+> I would like to have a refund, because your service does not work for me. My account is xxx@xxx（你自己的注册邮箱）.
+> Thank you.
+
 
