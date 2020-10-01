@@ -94,46 +94,40 @@ ExpressVPN已经为中国网民服务了11年，是可以毫不犹豫购买的VP
 
 ![ExpressVPN](img/express1.png)
 
-客户端好用的VPN不少，但提供无需Google Play Store和苹果美国商店即可安装客户端的VPN厂商，恐怕ExpressVPN是仅有的几家之一。
+客户端好用的VPN不少，但提供无需Google Play Store和苹果美国商店即可安装客户端的VPN厂商，恐怕ExpressVPN是仅有的几家之一，ExpressVPN还支持P2P下载，不限流量。
 
-推荐香港、日本、新加坡、美国节点，真正全终端覆盖，电脑（Windows，MacOS，Linux），手机（安卓，iOS：iPhone，iPad），路由器，游戏主机（PS2，XBox）等，安卓手机无需Google Play也可安装，iOS设备无需访问苹果商店也可安装，同时5台设备，单独配置哪些应用走VPN哪些不走（Split Tunneling） ，买一年送3个月，30天无理由退款，买一年送3个月，支持支付宝付款，支持P2P下载，不限流量。
+ExpressVPN真正实现全终端覆盖，包括：电脑Windows，MacOS，Linux，手机iPhone，iPad、Android，路由器Router，游戏主机PS2、XBox等。
 
 ![ExpressVPN支持设备](img/express2.png)
 
 ExpressVPN已通过普华永道隐私保护机制审计，ExpressVPN的无日志政策是实打实的无日志。
 
-无硬盘服务器，技术上，这种服务器无法保留任何上网痕迹，重启或断掉所以信息都会被抹得一干二净。
+无硬盘服务器：技术上，这种服务器无法保留任何上网痕迹，重启或断掉所以信息都会被抹得一干二净。
 
-智能连接，首先是自动检测最快的服务器，你不需要自己一个个去试，绝大多数情况下软件检测到的（Smart Location）就是当时最佳节点。其次，断线自动重连，虽然只是个小功能但真的很有用，而且每次重连时它会自动切断网络（Kill Switch），防止某些应用程序流量无意间泄露。
+智能连接：自动检测最快的服务器，自动匹配最佳节点。断线自动重连，防止流量无意间泄露，防止被监控。
 
-同时访问内外网，开VPN最让人烦恼的问题是打开国内网站会变慢，有些甚至会打不开。拆分隧道技术（Split Tunneling）让你配置哪些应用程序走VPN加密通道，哪些不走。
+DNS泄露保护：ExpressVPN在每台服务器上运行自己的私有加密DNS服务器，所有DNS请求都会通过这些私有的DNS服务器，严格保护隐私。
 
-DNS泄露保护。ExpressVPN在每台服务器上运行自己的私有加密DNS服务器，一旦连上，所有上网的DNS请求都会通过这些私有的域名服务器，不走任何公网服务器，你的上网隐私得到进一步保护。
+ExpresssVPN的缺点是它比较贵，但它是外国人在国内使用最多的软件，可见其稳定性和受信赖的程度，就好像iPhone，知道它贵，但仍然想买它。
 
-ExpresssVPN的缺点是它的价格较贵。未必是市场上价格最高的VPN，但至少是之一。目前提供三种套餐，单月12.95美金每月，买6个月为9.99美金每月，总计约60美金，买一年为8.32美金每月，总计约99美金，折合人民币700块每年，对不少读者确实有点贵，遇上活动，有买一年送3个月，折合起来每个月6刀多一点。
-
-ExpressVPN支持的付款方式很多，包括支付宝、银联。
+ExpressVPN支持的付款方式很多，包括支付宝、银联。买一年送3个月，30天无理由退款，支持支付宝付款。
 
 ![ExpressVPN支持付款方式](img/express3.png)
 
-香港、日本、美西是国内最好用的服务器，英国、新加坡和澳大利亚的节点有时候速度也不错。
+ExpressVPN同时支持5台设备，可配置Split Tunneling ，推荐香港、日本、新加坡、美国节点。
 
 ### [ExpressVPN官网镜像，需翻墙后打开（本来支持直接打开，受某些因素影响，官方主动屏蔽了）](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supervpn)
 
 ![ExpressVPN官网二维码](img/expresscode.png)
 
-ExpressVPN提供30天内无理由退款，如果你发现它在你的设备和网络环境下用不了，你可以有两种方式联系它们退款。
+ExpressVPN提供30天内无理由退款，如果你发现它在你的设备和网络环境下用不了，你可以有两种方式联系退款：
 
-1. 打开镜像站，等页面装载完毕后，你会看到右下方的“在线客服”入口，点进去就能联系到客服，他们7天24小时都有人。
+1. 打开官网，看到右下方的“在线客服”入口，点进去就能联系客服，他们7天24小时都客服在线。
 2. 写邮件给 support@expressvpn.com，他们一般会在一个工作日内回复。
 
-客服不支持中文，但你可以用下面简单的英文措辞：
+客服不支持中文，你可以用简单一两句话来进行交流，例如：
 
-> Hi，
->
-> I would like to have a refund, because your service does not work for me. My account is xxx@xxx（你自己的注册邮箱）.
->
-> Thank you.
+> Hi，I would like to have a refund, because your service does not work for me. My account is xxx@xxx（你自己的注册邮箱）. Thank you.
 
 # 3
 # NordVPN
