@@ -6,7 +6,7 @@
 
 |  VPN   | 特点  |
 |  ----  | ----  |
-| [PandaVPN](https://www.panhdpe.xyz/r/22216799) | 海外华人开发 |
+| [PandaVPN](https://www.panhdpe.xyz/r/22216799) | 海外华人开发，有免费试用 |
 | [NordVPN](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=github&aff_click_id=supervpn) | 顶级VPN品牌之一 |
 | [ExpressVPN](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supervpn) | 顶级品牌（需翻墙后购买）|
 | [SurfShark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401) | 不限设备数（需翻墙后购买） |
@@ -182,7 +182,7 @@ NordVPN支持30天无理由退款，如果你发现它在你的设备和网络�
 
 SurfShark目前只能通过官网购买，要先翻墙，可以用PandaVPN的免费试用，先获取国外IP，再进行购买。
 
-[SurfShark官网地址，翻墙后打开](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401)
+### [SurfShark官网地址，翻墙后打开](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401)
 
 ![SurfShark官网二维码](img/surfcode.png)
 
