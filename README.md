@@ -116,7 +116,7 @@ ExpressVPN支持的付款方式很多，包括支付宝、银联。买一年送3
 
 ExpressVPN同时支持5台设备，可配置Split Tunneling ，推荐香港、日本、新加坡、美国节点。
 
-### [ExpressVPN官网镜像，需翻墙后打开（本来支持直接打开，受某些因素影响，官方主动屏蔽了）](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supervpn)
+### [ExpressVPN官网镜像，需翻墙后打开](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=github&data1=supervpn)，可以用[PandaVPN免费试用](https://www.panhdpe.xyz/r/22216799)打开再购买
 
 ![ExpressVPN官网二维码](img/expresscode.png)
 
